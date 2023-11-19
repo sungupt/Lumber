@@ -12,7 +12,7 @@ is normal or abnormal.
 | Frontend - A webpage to display predicted results using HTML, Cascading Style Sheet(CSS) and JavaScript |
 | Python flask server for backend                                                                         |
  
-### Analysis & Interpretation-
+###### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about the project...
 
 #### 1)Data Collection and dataset formation- 
 Since,we needed a good quality data for our project,using which we can form our dataset for data modeling.We collected our data form Kaggle,and from various hospital patients’ report of there lower back pain.We collected our needed data from these reports,which was essential for our project.It was quite a tedious task. Then we form a dataset using MS Excel datasheet formation to form a datasheet.Still some data cleaning remains to be filtered out from the dataset.  
