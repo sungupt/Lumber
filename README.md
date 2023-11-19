@@ -21,7 +21,7 @@ Since,we needed a good quality data for our project,using which we can form our 
 To use the dataset for proper functioning of our project,firstly we need to clean the dataset from unwanted gaps to be removed from the dataset,which later helps in increasing the accuracy predicting the information taken from the user.For data cleaning,we upload the dataset in Jupyter Notebook,then use Numpy and pandas,libraries of python, to clean the dataset and to form a numeric data model.
 
 a)Uploading Datasheet-
- 
+  Take the datasheet [data.csv]
 
 b)Using Numpy and pandas libraries for data cleaning & data modelling-
  
