@@ -25,19 +25,19 @@ a)Uploading Datasheet-
 
 b)Using Numpy and pandas libraries for data cleaning & data modelling-
  
-
-Data Cleaning-
+##### Data Cleaning- ![image](https://github.com/sungupt/Lumber/assets/49180136/aaaca843-b574-4bc0-8173-e73938db69a3)
  
-Data Modelling-
+##### Data Modelling- ![image](https://github.com/sungupt/Lumber/assets/49180136/a1f766f6-7799-4b60-ae98-affc8e657717)
+
  
 #### 3)Data Visualization-
 Visualization of data is necessary to perform operations on bulk datasets,so we use “Matplotlib” a library of python in Jupyter Notebook to visualise datas
 stored to form data models.
 
 Visualization of Lumbar datasheet-
+![image](https://github.com/sungupt/Lumber/assets/49180136/9a0a0a00-fa30-45eb-8bc4-9679107c17bf)
 
   
-
 #### 4)Forming data clusters to predict the patient’s report result-
 Here,we use logistic regression,a machine learning algorithm, to segregate the data into clusters.The logistic regression method observes the datasets of lumbar pain,and forms two types of clusters which give a binary output as “Yes” or “No”.The clustering we used,provided in 87%-90% accuracy in predicting the test results.
 a)No represent that the report is Normal
@@ -50,6 +50,8 @@ F(x)= Cluster function
 L= Maximum Logistic Value
 -K(x-x0)= Logistic Growth
 x0= Value of sigmoid points
+
+![image](https://github.com/sungupt/Lumber/assets/49180136/2eab14de-ba92-4434-a2c8-c33d6d8a3603)
 
  
 #### 5)UI(User Interface) for entering patient report’s data-
