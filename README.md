@@ -9,7 +9,8 @@
 
 
 ## Lower Back Pain Predictor using Machine Learning and Data Science
-
+### Hi there 👋 , this projects aim for further advancement in medical domain. 
+Although there is 87% accuracy in this project,I am making improvements to increse its proficiency and  I would love your support .
 
 ### Objective
 The main aim of this project is to detect the result of lumber- lower back pain
