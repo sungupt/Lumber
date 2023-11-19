@@ -7,10 +7,12 @@
 </picture> 
 </p>
 
-
-## Lower Back Pain Predictor using Machine Learning and Data Science 
+<p>
+<h2>Lower Back Pain Predictor using Machine Learning and Data Science</h2>  
 Hi there 👋 , this projects aim for further advancement in medical domain. 
 Although there is 87% accuracy in this project,I am making improvements to increse its proficiency and  I would love your support .
+</p>
+
 
 
 ### Objective
