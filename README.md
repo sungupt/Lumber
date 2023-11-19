@@ -56,8 +56,7 @@ x0= Value of sigmoid points
 We have made a user interactive,easy to use,web based app where any patient can enter their lumbar report’s data and detect their report’s result by clicking on the “Predict” button and can easily know their result.
 
 a)Frontend- The frontend of the web app is made using simple html,css and javascript and a json file to accept inputs.Codes and tests are already shown in the coding & testing column.
-
- 
+![image](https://github.com/sungupt/Lumber/assets/49180136/280f5f2f-dddc-4f04-847d-276bb866eb92)
 
 b)Backend server - The backend server of the web app is developed using “Python Flask”.Flask is a lightweight server side python platform that allows one to develop web applications.Flask uses a python based library ‘SKLearn’ to create requests and send to Jupiter's data model and is also cable of receiving data from UI,where user feeds the report’s data through json file format which interact with the flask server at local port: 8800.
 Here once data is fed in the web UI,json make a request to server and sends data to server to detect the outcome.Server receives the data and send data to Jupyter’ data model where data is being processed and a prediction on that data is made.The the data model sends this predicted reply to server.Now server sends this data back to web UI,where the predicted data of the patient lumbar report’s result will be shown.
