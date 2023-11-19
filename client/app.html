@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lower Back pain Detection</title>
+    <script src="jquery.min.js"></script>
+    <script src="app.js"></script>
+    <link rel="stylesheet" href="app.css">
+</head>
+
+<body>
+
+    <div class="uppar">
+        <h1>Lumber-Lower Back Pain Predictor</h1>
+    </div>
+    <div>
+        <form action="" class="container">
+            <label for="pelvic_incidence">pelvic_incidence </label>
+            <input type="text" name="pelvic_incidence" id="pelvic_incidence" placeholder="0.0">
+
+            <label for="pelvic_tilt">pelvic_tilt </label>
+            <input type="text" name="pelvic_tilt" id="pelvic_tilt" placeholder="0.0">
+
+            <label for="lumbar_lordosis_angle">lumbar_lordosis_angle </label>
+            <input type="text" name="lumbar_lordosis_angle" id="lumbar_lordosis_angle" placeholder="0.0">
+
+            <label for="sacral_slope">sacral_slope </label>
+            <input type="text" name="sacral_slope" id="sacral_slope" placeholder="0.0">
+
+            <label for="pelvic_radius">pelvic_radius </label>
+            <input type="text" name="pelvic_radius" id="pelvic_radius" placeholder="0.0">
+
+            <label for="degree_spondylolisthesis">degree_spondylolisthesis</label>
+            <input type="text" name="degree_spondylolisthesis" id="degree_spondylolisthesis" placeholder="0.0">
+
+            <label for="pelvic_slope">pelvic_slope </label>
+            <input type="text" name="pelvic_slope" id="pelvic_slope" placeholder="0.0">
+
+            <label for="Direct_tilt">Direct_tilt</label>
+            <input type="text" name="Direct_tilt" id="Direct_tilt" placeholder="0.0">
+
+            <label for="thoracic_slope">thoracic_slope </label>
+            <input type="text" name="thoracic_slope" id="thoracic_slope" placeholder="0.0">
+
+            <label for="cervical_tilt">cervical_tilt </label>
+            <input type="text" name="cervical_tilt" id="cervical_tilt" placeholder="0.0">
+
+            <label for="sacrum_angle">sacrum_angle :</label>
+            <input type="text" class="sacrum_angle" id="sacrum_angle" placeholder="0.0">
+
+            <label for="scoliosis_slope">scoliosis_slope </label>
+            <input type="text" name="scoliosis_slope" id="scoliosis_slope" placeholder="0.0">
+
+            <button onclick="onPredictResult()" type="button">Predict</button>
+
+            <output id="result" name="result"></output>
+        </form>
+    </div>
+</body>
+
+</html>
