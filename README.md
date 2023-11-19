@@ -25,9 +25,11 @@ a)Uploading Datasheet-
 
 b)Using Numpy and pandas libraries for data cleaning & data modelling-
  
-##### Data Cleaning- ![image](https://github.com/sungupt/Lumber/assets/49180136/aaaca843-b574-4bc0-8173-e73938db69a3)
+##### Data Cleaning- 
+![image](https://github.com/sungupt/Lumber/assets/49180136/aaaca843-b574-4bc0-8173-e73938db69a3)
  
-##### Data Modelling- ![image](https://github.com/sungupt/Lumber/assets/49180136/a1f766f6-7799-4b60-ae98-affc8e657717)
+##### Data Modelling- 
+![image](https://github.com/sungupt/Lumber/assets/49180136/a1f766f6-7799-4b60-ae98-affc8e657717)
 
  
 #### 3)Data Visualization-
